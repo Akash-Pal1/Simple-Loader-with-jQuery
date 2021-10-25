@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    background-image: url("https://wallpapercave.com/w/wp5984270.jpg");
+    background-size:cover;
+    color:white;
+}
+#OuterDiv {
+    background-color: #EEEEEE;
+    height:20px;
+    width: 300px;
+    padding: 5px;
+}
+#InnerDiv {
+    background-color: green;
+    height: 18px;
+    width: 0px;
+    color: white;
+    text-align: center;
+}
+.asd{
+    color:black;
+}
